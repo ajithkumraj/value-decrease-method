@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+  text-align: center;
+  background-color: aqua;
+  border-radius: 100em;
+}
+button{
+  margin: 10em;
+  padding: 0.5em;
+  border-radius: 20px;
+}
